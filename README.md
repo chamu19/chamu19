@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Chamu</h1>
 
 <p align="center">
-  💻 <strong>Software Engineering Student</strong> • 🎨 <strong>Front-End Developer</strong> • ✨ <strong>UI/UX Designer</strong>
+ 💻<strong>Front-End Developer</strong> • 🎨<strong>UI/UX Designer</strong>
 </p>
 
 <p align="center">
