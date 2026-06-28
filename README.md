@@ -1,34 +1,35 @@
 # 👋 Hi, I'm Chamuditha Lakshani
 
-💻 Front-End Developer & UI/UX Enthusiast  
-🎓 Software Engineering Student  
-🌐 Building modern web experiences  
-📧 your-email@gmail.com
+💻 Software Engineering Student | 🎨 UI/UX Enthusiast  
+🚀 Front-End Developer | 🤖 Exploring AI & Modern Technologies  
+📍 Jaffna, Sri Lanka  
+📧 chamulakshani019@gmail.com
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student passionate about creating clean, modern, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences through front-end development and creative UI/UX design. I am continuously learning new technologies, improving my skills, and exploring the future of web development and AI.
+I am a motivated Software Engineering student with a strong foundation in software development, web technologies, and UI/UX design. I enjoy creating clean, responsive, and user-friendly digital experiences while continuously improving my technical and problem-solving skills.
+
+I am passionate about building modern web applications, exploring AI tools, and transforming ideas into practical software solutions. I believe in continuous learning, creativity, and growing as a developer through real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## 🚀 Frontend
+### 🚀 Frontend
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-## 🎨 UI / UX
+### 🎨 UI / UX
 
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=ps)
 
-## ⚙️ Tools
+### ⚙️ Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -38,18 +39,29 @@ I am a Software Engineering student passionate about creating clean, modern, and
 
 ## 🎓 Education
 
-🎓 HND in Software Engineering  
-ESOFT Metro Campus
+🎓 **Pearson Higher National Diploma (HND) in Software Engineering**  
+ESOFT Metro Campus | Jaffna, Sri Lanka  
+2024 – 2026
+
+🎓 **Diploma in Information and Communication Technology**  
+ICBT Campus | Jaffna, Sri Lanka  
+2024
+
+🎓 **International Diploma in English**  
+ICBT Campus | Jaffna, Sri Lanka  
+2024
 
 ---
 
-## 🚀 Projects
+## 🚀 Skills & Interests
 
-### 🌐 Portfolio Website
-My personal portfolio showcasing my skills, projects, and journey as a developer.
-
-### 💻 Web Development Projects
-Creating responsive websites and learning modern development practices.
+✨ Web Design & Development  
+🎨 UI/UX Design  
+📱 Responsive Web Design  
+🤖 AI Tools & Prompt Engineering  
+🧠 Problem Solving  
+👥 Team Leadership & Collaboration  
+⏳ Time Management  
 
 ---
 
@@ -59,8 +71,6 @@ Creating responsive websites and learning modern development practices.
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
 </div>
 
 ---
@@ -69,8 +79,14 @@ Creating responsive websites and learning modern development practices.
 
 💼 LinkedIn: YOUR_LINKEDIN_LINK
 
-📧 Email: your-email@gmail.com
+📧 Email: chamulakshani019@gmail.com
+
+📍 Jaffna, Sri Lanka
 
 ---
 
+<div align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</div>
