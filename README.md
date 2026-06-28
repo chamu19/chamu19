@@ -1,16 +1,45 @@
-## Hi there 👋
+#👋 Hi, I'm Chamuditha Lakshani
 
-<!--
-**chamu19/chamu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student & UI/UX Designer  
+📍 Jaffna, Sri Lanka  
+📧 chamulakshani019@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building innovative digital solutions • 🎨 Creating user-friendly experiences •
+
+## 👩‍💻 About Me
+
+I am a passionate Software Engineering student focused on building clean, modern, and user-friendly applications. I enjoy combining design and development to create meaningful digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### Backend
+Node.js • PHP
+
+### Database
+MySQL • MongoDB
+
+### Design & Tools
+Figma • Canva • Git • VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Full Stack Development
+- UI/UX Design
+- Modern Web Technologies
+
+---
+
+## 📫 Connect With Me
+
+
+💼 LinkedIn: www.linkedin.com/in/chamuditha-lakshani-a13aa2327
+📧 Email: chamulakshani019@gmail.com
