@@ -1,2 +1,4 @@
 <h1 align="center">👋 Hi, I'm Chamuditha Lakshani</h1>
-<h3 align="center">Software Engineering Graduate | UI/UX Designer</h3>
+<h3>
+💻 Software Engineering Student & UI/UX Designer 📍 Jaffna, Sri Lanka  📧 chamulakshani019@gmail.com
+</h3>
