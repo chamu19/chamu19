@@ -1,92 +1,87 @@
 # 👋 Hi, I'm Chamuditha Lakshani
 
-💻 Software Engineering Student | 🎨 UI/UX Enthusiast  
-🚀 Front-End Developer | 🤖 Exploring AI & Modern Technologies  
-📍 Jaffna, Sri Lanka  
-📧 chamulakshani019@gmail.com
+### 💻 Software Engineering Student | 🎨 Front-End Developer | ✨ UI/UX Enthusiast
+
+📍 **Jaffna, Sri Lanka**  
+📧 **chamulakshani019@gmail.com**
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I am a motivated Software Engineering student with a strong foundation in software development, web technologies, and UI/UX design. I enjoy creating clean, responsive, and user-friendly digital experiences while continuously improving my technical and problem-solving skills.
-
-I am passionate about building modern web applications, exploring AI tools, and transforming ideas into practical software solutions. I believe in continuous learning, creativity, and growing as a developer through real-world projects.
+I am a passionate Software Engineering student with a strong interest in front-end development and UI/UX design. I enjoy building modern, responsive, and user-friendly web applications that provide meaningful digital experiences. I am continuously expanding my knowledge by learning new technologies, working on real-world projects, and exploring AI tools to enhance my development workflow. My goal is to grow into a skilled software engineer who creates innovative and impactful solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 🚀 Frontend
+### 🌐 Frontend
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
-### 🎨 UI / UX
+### 🎨 Design
 
-![Figma](https://skillicons.dev/icons?i=figma)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-### ⚙️ Tools
+### 🛠 Tools
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🎓 Education
 
-🎓 **Pearson Higher National Diploma (HND) in Software Engineering**  
-ESOFT Metro Campus | Jaffna, Sri Lanka  
-2024 – 2026
+**🎓 Pearson Higher National Diploma (HND) in Software Engineering**  
+ESOFT Metro Campus, Jaffna  
+**2024 – Present**
 
-🎓 **Diploma in Information and Communication Technology**  
-ICBT Campus | Jaffna, Sri Lanka  
-2024
+**🎓 Diploma in Information & Communication Technology**  
+ICBT Campus
 
-🎓 **International Diploma in English**  
-ICBT Campus | Jaffna, Sri Lanka  
-2024
+**🎓 International Diploma in English**  
+ICBT Campus
 
 ---
 
-## 🚀 Skills & Interests
+## 💡 Skills
 
-✨ Web Design & Development  
-🎨 UI/UX Design  
-📱 Responsive Web Design  
-🤖 AI Tools & Prompt Engineering  
-🧠 Problem Solving  
-👥 Team Leadership & Collaboration  
-⏳ Time Management  
+- 💻 Front-End Development
+- 🎨 UI/UX Design
+- 📱 Responsive Web Design
+- 🤖 AI Tools (ChatGPT, Claude)
+- 🧠 Problem Solving
+- 🤝 Team Collaboration
+- ⏳ Time Management
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_LINK
-
-📧 Email: chamulakshani019@gmail.com
-
-📍 Jaffna, Sri Lanka
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 📧 Email: chamulakshani019@gmail.com
 
 ---
 
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
+⭐ **Thanks for visiting my GitHub profile!**
