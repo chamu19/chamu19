@@ -1,54 +1,55 @@
-# 👋 Hi, I'm Chamuditha
+# 👋 Hi, I'm Chamuditha Lakshani
 
-<div align="center">
-
-# 🚀 Software Engineering Student
-### 💻 Front-End Developer | 🎨 UI/UX Enthusiast
-
-</div>
+💻 Front-End Developer & UI/UX Enthusiast  
+🎓 Software Engineering Student  
+🌐 Building modern web experiences  
+📧 your-email@gmail.com
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 Software Engineering Student passionate about technology & innovation.
-
-💻 Front-End Developer creating responsive and interactive web experiences.
-
-🎨 UI/UX enthusiast who loves turning ideas into beautiful designs.
-
-🤖 Exploring AI and modern technologies while building my developer journey.
-
-🌱 Continuously learning, improving skills, and creating meaningful projects.
-
-⚡ Code • Create • Learn • Improve
+I am a Software Engineering student passionate about creating clean, modern, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences through front-end development and creative UI/UX design. I am continuously learning new technologies, improving my skills, and exploring the future of web development and AI.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+## 🚀 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-</div>
+## 🎨 UI / UX
+
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+
+## ⚙️ Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🚀 What I Do
+## 🎓 Education
 
-✨ Build modern and responsive websites  
-🎨 Create clean user interfaces  
-💡 Solve problems through code  
-📚 Learn new tools and technologies  
+🎓 HND in Software Engineering  
+ESOFT Metro Campus
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
-🔹 Web Development Projects  
-🔹 UI/UX Design Projects  
-🔹 Personal Learning Projects  
+### 🌐 Portfolio Website
+My personal portfolio showcasing my skills, projects, and journey as a developer.
+
+### 💻 Web Development Projects
+Creating responsive websites and learning modern development practices.
 
 ---
 
@@ -56,11 +57,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
@@ -70,12 +69,8 @@
 
 💼 LinkedIn: YOUR_LINKEDIN_LINK
 
-📧 Email: YOUR_EMAIL
+📧 Email: your-email@gmail.com
 
 ---
 
-<div align="center">
-
 ⭐ Thanks for visiting my profile!
-
-</div>
