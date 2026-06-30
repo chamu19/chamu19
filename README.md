@@ -13,11 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am a passionate **Software Engineering Graduate** with a strong interest in **Front-End Development** and **UI/UX Design**.
-
-I enjoy building clean, modern, responsive, and user-friendly web applications while creating meaningful digital experiences.
-
-I am continuously learning new technologies, improving my development skills, and building real-world projects.
+I am a passionate Front-End Developer and UI/UX Designer dedicated to building clean, responsive, and user-friendly web applications. I enjoy transforming creative ideas into engaging digital experiences while continuously learning modern web technologies and best development practices.
 
 ---
 
@@ -58,11 +54,17 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
+
 ⚛️ React.js <br><br>
+
 🎨 Tailwind CSS <br><br>
+
 🌐 REST APIs <br><br>
+
 📱 Responsive Web Design <br><br>
+
 ✨ Modern UI/UX Design
+
 </p>
 
 ---
@@ -87,12 +89,16 @@ I am continuously learning new technologies, improving my development skills, an
 
 <p align="center">
 
+📧 <strong>Email</strong><br>
 <a href="mailto:chamulakshani019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+chamulakshani019@gmail.com
 </a>
 
-<a href="https://www.linkedin.com/in/chamulakshani-lakshani-a13aa2327">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br><br>
+
+💼 <strong>LinkedIn Profile</strong><br>
+<a href="https://www.linkedin.com/in/chamuditha-lakshani-a13aa2327">
+www.linkedin.com/in/chamuditha-lakshani-a13aa2327
 </a>
 
 </p>
