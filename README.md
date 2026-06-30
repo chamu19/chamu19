@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamu</h1>
 
 <h3 align="center">
-💻 Front-End Developer | 🎨 UI/UX Designer | 🚀 Software Engineering Graduate
+💻 Front-End Developer | 🎨 UI/UX Designer | 🚀 Software Engineering Student
 </h3>
 
 <p align="center">
@@ -54,17 +54,11 @@ I am a passionate Front-End Developer and UI/UX Designer dedicated to building c
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-
 ⚛️ React.js <br><br>
-
 🎨 Tailwind CSS <br><br>
-
 🌐 REST APIs <br><br>
-
 📱 Responsive Web Design <br><br>
-
 ✨ Modern UI/UX Design
-
 </p>
 
 ---
@@ -73,15 +67,15 @@ I am a passionate Front-End Developer and UI/UX Designer dedicated to building c
 
 ### Higher National Diploma in Software Engineering
 **ESOFT Metro Campus, Jaffna**  
-📅 **2024 – 2026**
+📅 2024 – 2026
 
 ### Diploma in Information Technology
 **ICBT Campus, Jaffna**  
-📅 **2024**
+📅 2024
 
 ### Diploma in English
 **ICBT Campus, Jaffna**  
-📅 **2024**
+📅 2024
 
 ---
 
@@ -89,16 +83,12 @@ I am a passionate Front-End Developer and UI/UX Designer dedicated to building c
 
 <p align="center">
 
-📧 <strong>Email</strong><br>
 <a href="mailto:chamulakshani019@gmail.com">
-chamulakshani019@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-💼 <strong>LinkedIn Profile</strong><br>
 <a href="https://www.linkedin.com/in/chamuditha-lakshani-a13aa2327">
-www.linkedin.com/in/chamuditha-lakshani-a13aa2327
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
