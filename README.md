@@ -43,7 +43,6 @@ I am continuously learning new technologies, improving my development skills, an
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/>
 </p>
 
 ---
@@ -67,8 +66,8 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -76,7 +75,7 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,13 +83,13 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="mailto:chamulakshani019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:chamulakshani019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/chamulakshani-lakshani-a13aa2327">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/chamulakshani-lakshani-a13aa2327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
