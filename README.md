@@ -58,17 +58,11 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-
 ⚛️ React.js <br><br>
-
 🎨 Tailwind CSS <br><br>
-
 🌐 REST APIs <br><br>
-
 📱 Responsive Web Design <br><br>
-
 ✨ Modern UI/UX Design
-
 </p>
 
 ---
@@ -77,23 +71,15 @@ I am continuously learning new technologies, improving my development skills, an
 
 ### Higher National Diploma in Software Engineering
 **ESOFT Metro Campus, Jaffna**  
-📅 2024 – 2026
+📅 **2024 – 2026**
 
 ### Diploma in Information Technology
 **ICBT Campus, Jaffna**  
-📅 2024
+📅 **2024**
 
 ### Diploma in English
 **ICBT Campus, Jaffna**  
-📅 2024
-
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chamu19&theme=tokyonight&hide_border=true" />
-</p>
+📅 **2024**
 
 ---
 
