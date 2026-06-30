@@ -73,19 +73,26 @@ I am continuously learning new technologies, improving my development skills, an
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🎓 Education
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Higher National Diploma in Software Engineering
+**ESOFT Metro Campus, Jaffna**  
+📅 2024 – 2026
+
+### Diploma in Information Technology
+**ICBT Campus, Jaffna**  
+📅 2024
+
+### Diploma in English
+**ICBT Campus, Jaffna**  
+📅 2024
 
 ---
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chamu19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
