@@ -58,7 +58,17 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-⚛️ React.js • 🎨 Tailwind CSS • 🌐 REST APIs • 📱 Responsive Web Design
+
+⚛️ React.js <br><br>
+
+🎨 Tailwind CSS <br><br>
+
+🌐 REST APIs <br><br>
+
+📱 Responsive Web Design <br><br>
+
+✨ Modern UI/UX Design
+
 </p>
 
 ---
@@ -83,13 +93,15 @@ I am continuously learning new technologies, improving my development skills, an
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:chamulakshani019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/chamulakshani-lakshani-a13aa2327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="mailto:chamulakshani019@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chamulakshani-lakshani-a13aa2327">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
